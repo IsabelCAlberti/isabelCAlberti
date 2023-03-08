@@ -1,4 +1,4 @@
-<h1 align="center"> Oiee! (●'◡'●) Sou Isabel Alberti </h1>
+<h1 align="center"> Oiee! Sou Isabel Alberti </h1>
 
 <p>
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"  alt="Pessoa Digitando" width="300">
