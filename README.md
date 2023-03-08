@@ -37,14 +37,3 @@ Me comunico bem com as pessoas, gosto de conversar, sou muito animada e colabora
 Entrei na área de TI e descobri uma paixão.</h3>
 
 <H2 align="center"> 🔗 Links </H2>
-
-<div align="center">
-    <a href = "mailto:isabel.andrade1@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/isabel-alberti target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  
- <H2 align="center"> GitHub Status </h2>
-
-<img width='500' src="https://github-readme-stats.vercel.app/api?username=isabelalberti"/> 
-
-<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelalberti&langs_count=8&layout=compact"/>
