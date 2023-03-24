@@ -11,9 +11,9 @@
 
 ### Conhecimento Básico em :
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=a480ff&labelColor=0D1117"/> ;
-<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=a480ff&labelColor=0D1117"/> ;
-<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=a480ff&labelColor=0D1117"/> ;
+<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=a480ff&labelColor=0D1117"/> 
+<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=a480ff&labelColor=0D1117"/> 
+<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=a480ff&labelColor=0D1117"/> 
  
  <H2 align="center">Sobre Mim:</h2>
 
@@ -22,7 +22,7 @@ Trabalhar com tecnologia me dá a satisfação que preciso em saber que estou co
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IsabelCAlberti&bg_color=0d1117&color=7f4dff&line=a480ff&point=c8b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<H2 align="center"> 🔗 Links </H2>
+<H2 align="center"> 🔗 Contato </H2>
 
 <div align="center">
     <a href = "mailto:isabel.andrade1@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
