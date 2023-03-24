@@ -11,30 +11,18 @@
 
 ### Conhecimento Básico em :
 <div>
-
-   <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img height ="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img  height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-      <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-  <img  height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
-    </div>
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=a480ff&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=a480ff&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=a480ff&labelColor=0D1117)&nbsp;
+</div>
  
  <H2 align="center"> About me </h2>
 
 <h3 align="justify"> Me considero uma pessoa muito protetora, defendo quem está comigo, luto por minha equipe, minha família, meus amigos, aqueles que estão comigo, porém sou justa, não defendo erros, eu gosto de trocar uma ideia e chegar a um consenso e, se eu estiver errada gosto que discutam comigo também.
 Me comunico bem com as pessoas, gosto de conversar, sou muito animada e colaborativa, se pedir algo eu tentarei fazer.
 Entrei na área de TI e descobri uma paixão.</h3>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IsabelCAlberti&bg_color=0d1117&color=7f4dff&line=a480ff&point=c8b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <H2 align="center"> 🔗 Links </H2>
 
@@ -43,8 +31,4 @@ Entrei na área de TI e descobri uma paixão.</h3>
     <a href="https://www.linkedin.com/in/isabel-alberti target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
- <H2 align="center"> GitHub Status </h2>
-
-<img width='500' src="https://github-readme-stats.vercel.app/api?username=isabelalberti"/> 
-
-<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelalberti&langs_count=8&layout=compact"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a480ff&height=120&section=footer"/>
