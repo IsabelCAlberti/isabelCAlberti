@@ -4,7 +4,7 @@
 
 <br><br>
 
-🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela SPTECH SCHOOL.<br>
+🎓 Formada em Análise e Desenvolvimento de Sistemas pela SPTECH SCHOOL.<br>
 📚 Bootcamps: Generation Brasil (Dev FullStack Java JR).<br>
 🎯 Estou focada em alcançar meu objetivo de me tornar uma Desenvolvedora.<br>
 😄 Pronomes: Ela / Dela ...<br>
@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=a480ff&labelColor=0D1117"/> 
 <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=a480ff&labelColor=0D1117"/> 
 <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=a480ff&labelColor=0D1117"/> 
+<img src="https://img.shields.io/github/pipenv/locked/python-version/:user/:repo"/>
  
  <H2 align="center">Sobre Mim:</h2>
 
