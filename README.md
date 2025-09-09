@@ -13,8 +13,12 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=a480ff&labelColor=0D1117"/> 
 <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=a480ff&labelColor=0D1117"/> 
+<img src="https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=a480ff&labelColor=0D1117"/>
+
 <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=a480ff&labelColor=0D1117"/> 
 <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=a480ff&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=a480ff&labelColor=0D1117"/>
+
  
  <H2 align="center">Sobre Mim:</h2>
 
