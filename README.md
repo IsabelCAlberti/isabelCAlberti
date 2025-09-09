@@ -21,10 +21,7 @@
 
  <h2 align="center">Sobre Mim:</h2>
 
-<h3 align="justify">Faço a Graduação do curso de Análise e Desenvolvimento de Sistemas pela SPTECH SSCHOOL e a concluirei em 12/24 - e estudando em paralelo com cursos e bootcamps encontrados pela internet e em outras plataformas.
-Trabalhar com tecnologia me dá a satisfação que preciso em saber que estou contribuindo para a sociedade com a minha vocação,eu eEntrei na área de TI e descobri uma paixão.</h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IsabelCAlberti&bg_color=0d1117&color=7f4dff&line=a480ff&point=c8b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="justify">Trabalhar com tecnologia me dá a satisfação que preciso em saber que estou contribuindo para a sociedade com a minha vocação, eu entrei na área de TI e descobri uma paixão.</h3> <h3> Fora isso, me dedico como psicóloga clinica e sempre que possível mantenho-me sempre atualizada!</h3>
 
 <H2 align="center"> 🔗 Contato </H2>
 
